@@ -24,7 +24,13 @@ The project contains:
 ## Project Structure
 
 ```text
-
+my-website/
+│
+├── index.html
+├── about.html
+├── contact.html
+│
+├── css/
 │   └── style.css
 │
 ├── images/
